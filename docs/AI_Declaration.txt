@@ -1,0 +1,71 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Md. Hasib Ali Rishad
+Student ID: 23101389
+Assignment: CSE 391 Assignment 03 - PHP and MySQL Project
+Date: November 9, 2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[ ] GitHub Copilot
+[X] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[X] Learning/understanding concepts
+[X] Debugging my code
+[X] Generating code snippets
+[X] Writing text content
+[X] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+Used Google Gemini (Antigravity Assistant) as an interactive pair-programming
+assistant to design the relational MySQL schema (database.sql and db.php),
+implement the PHP User Panel (index.php) and Admin Panel (admin.php) using
+foundational mysqli and SQL queries aligned with CSE 391 Lectures 05-07, add
+JavaScript and PHP input validation (script.js), and style the application
+with the ZenCrypto vanilla CSS3 theme (style.css).
+A complete chronological record of prompts is documented in docs/AI_Prompts.md.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: db.php           Section: MySQLi Connection, Admin Credentials, Helper Functions, Auto Table Setup & Seed
+File: database.sql     Section: Tables 1-3 (users, mechanics, appointments DDL & Seed Data)
+File: header.php       Section: Shared Head, Navigation Bar & Dark-Mode Switch
+File: footer.php       Section: Shared Footer & Script Include
+File: login.php        Section: Single Sign-In Page (Admin -> admin.php, Client -> index.php)
+File: signup.php       Section: Client Registration with Validation & Hashed Passwords
+File: logout.php       Section: Session Unset & Destroy Logout Handler
+File: index.php        Section: Client Panel (Booking Rules, Live Availability, My Bookings, Cancel, Help)
+File: admin.php        Section: Admin Panel (Appointment List, Edit Date/Mechanic, Delete, Workload, Filter)
+File: style.css        Section: ZenCrypto Theme, Pure-CSS Dark Mode, Auth Pages, Tables & Responsive Layout
+File: script.js        Section: Theme Memory, Live Free Places, Form Validation & Confirm Boxes
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Md. Hasib Ali Rishad
+Date: November 9, 2026
